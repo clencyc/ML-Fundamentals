@@ -17,3 +17,6 @@ This repo is used to provide access to files for exercises as part of the Introd
 #### https://mlflow.org/
 #### https://arxiv.org/abs/1603.06560
 #### https://www.automl.org/blog_bohb/
+
+![image](https://github.com/user-attachments/assets/9cd9c13a-647f-481d-8142-0c994a9f7562)
+
