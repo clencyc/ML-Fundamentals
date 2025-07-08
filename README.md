@@ -11,3 +11,6 @@ This repo is used to provide access to files for exercises as part of the Introd
 ### https://towardsdatascience.com/10-must-know-classification-metrics-for-machine-learning-2ce3a4ad256e/
 ### https://scikit-learn.org/stable/api/index.html
 ### https://scikit-learn.org/stable/user_guide.html
+
+# Hyperparameter tuning
+### https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide
